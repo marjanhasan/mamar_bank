@@ -35,6 +35,7 @@ dbus-python
 defer
 distlib
 distro
+dj-database-url
 Django
 django-crispy-forms
 django-email
@@ -118,6 +119,7 @@ psutil
 psycopg
 psycopg-binary
 psycopg2
+psycopg2-binary
 ptyprocess
 pyasn1
 pyasn1-modules

@@ -23,7 +23,6 @@ cffi
 chardet
 click
 colorama
-command-not-found
 configobj
 crispy-bootstrap5
 cryptography

@@ -92,7 +92,6 @@ msal-extensions
 msrest
 mss
 mysql-connector-python
-nemo-emblems
 netaddr
 netifaces
 oauthlib

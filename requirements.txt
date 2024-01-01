@@ -1,6 +1,5 @@
 alembic
 anyio
-apturl
 asgiref
 Authlib
 azure-common

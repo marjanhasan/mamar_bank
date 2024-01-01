@@ -16,7 +16,6 @@ bidict
 blinker
 boto3
 botocore
-Brlapi
 Brotli
 cachetools
 certifi

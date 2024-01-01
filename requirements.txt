@@ -95,7 +95,6 @@ mysql-connector-python
 netaddr
 netifaces
 oauthlib
-onboard
 packaging
 PAM
 paramiko
